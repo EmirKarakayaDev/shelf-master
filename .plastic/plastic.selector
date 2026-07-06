@@ -1,0 +1,4 @@
+repository "shelf-master/shelf-master@18967656403400@cloud"
+  path "/"
+    br "/main"
+    co "/main"
